@@ -1,6 +1,6 @@
 # @xinliang/scp
 
-> Encapsulated node-scp, uploading files to the server is more convenient.
+> Encapsulated [node-scp](https://www.npmjs.com/package/node-scp), uploading files to the server is more convenient.
 
 ## 0. install
 
