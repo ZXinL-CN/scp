@@ -1,0 +1,9 @@
+{
+  "clientConfig": {
+    "host": "www.google.com",
+    "port": 22,
+    "username": "root"
+  },
+  "uploadPath": "./dist",
+  "remotePath": "project/workspace"
+}
