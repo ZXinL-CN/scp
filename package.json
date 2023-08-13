@@ -1,6 +1,6 @@
 {
   "name": "@xinliang/scp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node-scp enhancement",
   "type": "module",
   "exports": {
@@ -25,10 +25,17 @@
   },
   "author": "xinl",
   "license": "ISC",
+  "keywords": [
+    "node scp",
+    "node-scp",
+    "scp"
+  ],
+  "dependencies": {
+    "node-scp": "^0.0.23",
+    "prompt-sync": "^4.2.0"
+  },
   "devDependencies": {
     "@types/prompt-sync": "^4.2.0",
-    "node-scp": "^0.0.23",
-    "prompt-sync": "^4.2.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.1.6",
     "unbuild": "^1.2.1"
