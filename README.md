@@ -10,6 +10,8 @@ npm i @xinliang/scp -D
 
 ## 1. init `scp.config.json` file
 
+> The clientConfig configuration should be consistent with node-scp. If you expect more freedom of control, you should use [node-scp](https://www.npmjs.com/package/node-scp) directly
+
 ```json
 {
   "clientConfig": {
